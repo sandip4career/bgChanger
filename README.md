@@ -29,6 +29,7 @@ This project was built to practice fundamental React concepts such as **componen
 * **JavaScript**
 * **HTML**
 * **CSS**
+* **Tailwind CSS**
 * **Vite**
 * **ES6+**
 
